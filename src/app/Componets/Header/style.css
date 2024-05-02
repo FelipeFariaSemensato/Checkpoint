@@ -1,0 +1,28 @@
+.panificadora-header {
+    background-color: #ec3a3a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header-title {
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  .header-subtitle {
+    font-size: 1.2rem;
+    font-weight: lighter;
+    margin: 0;
+  }
+  .header-nav {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    margin: 1rem 0;
+  }
+  
+  .header-nav li {
+    cursor: pointer;
+  }
